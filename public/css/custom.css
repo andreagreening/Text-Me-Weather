@@ -1,0 +1,12 @@
+body {
+	background-color: #c5caf7;
+}
+.mobile-image {
+	max-height: 500px;
+}
+
+.welcome-text {
+	font-family: 'Nunito', sans-serif;
+	color: #333359;
+}
+
